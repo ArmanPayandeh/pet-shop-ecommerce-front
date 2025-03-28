@@ -1,1 +1,1 @@
-# source pet shop sample whit next and tailwind for developer
+# source pet shop sample whit next Js and tailwind for developer
